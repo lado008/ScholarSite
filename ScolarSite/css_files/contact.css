@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: bisque;
+}
+main {
+
+    position: absolute;
+    top: 465px;
+    width: 100%;
+    text-align: center;
+   
+}
+
+main p {
+    font-size: 28px;
+    line-height: 1.5;
+    margin-left:15px;
+    margin-top: 10px;
+}
